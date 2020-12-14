@@ -1,0 +1,103 @@
+PODS:
+  - Alamofire (4.9.1)
+  - "app_settings (3.0.0+1)":
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_uploader (1.2.0):
+    - Alamofire (= 4.9.1)
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - geocoder (0.0.1):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps (< 3.10)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - libphonenumber (0.0.1):
+    - Flutter
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.9.15)
+  - location (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - search_choices (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - app_settings (from `.symlinks/plugins/app_settings/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_uploader (from `.symlinks/plugins/flutter_uploader/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+  - libphonenumber (from `.symlinks/plugins/libphonenumber/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - search_choices (from `.symlinks/plugins/search_choices/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - libPhoneNumber-iOS
+    - Reachability
+    - Toast
+
+EXTERNAL SOURCES:
+  app_settings:
+    :path: ".symlinks/plugins/app_settings/ios"
+  Flutter:
+    :path: Flutter
+  flutter_uploader:
+    :path: ".symlinks/plugins/flutter_uploader/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+  libphonenumber:
+    :path: ".symlinks/plugins/libphonenumber/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  search_choices:
+    :path: ".symlinks/plugins/search_choices/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  app_settings: d103828c9f5d515c4df9ee754dabd443f7cedcf3
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_uploader: 7957e1b9d6516b6cccc37e5ffd6c5a0975a7cc4c
+  fluttertoast: 6122fa75143e992b1d3470f61000f591a798cc58
+  geocoder: 3cfab70531a0b367e917bafe82df4c30f6d4c45a
+  google_maps_flutter: c7f9c73576de1fbe152a227bfd6e6c4ae8088619
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  libphonenumber: bd14d5abfc5939ab0b0767234e2d8e2593af258e
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  search_choices: b50731e8c425078048f681f39c34375c58d6ce8d
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0.beta.2

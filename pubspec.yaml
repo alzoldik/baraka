@@ -1,0 +1,58 @@
+name: baraka
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_spinkit: ^4.1.1+1
+  fluttertoast: ^7.1.1
+  provider: ^4.0.0
+  keyboard_visibility: ^0.5.6
+  flutter_swiper: ^1.1.6
+  geocoder: ^0.2.1
+  pull_to_refresh: ^1.5.8
+  intl_phone_number_input: ^0.4.6+2
+  search_choices: ^1.0.17
+  percent_indicator: ^2.1.5
+  flutter_google_places: ^0.2.3
+  location: ^2.3.5
+  smooth_star_rating: ^1.1.1
+  flutter_google_maps: ^3.7.1
+  intl: ^0.16.0
+  app_settings: ^3.0.0+1
+  dotted_border: ^1.0.5
+  shared_preferences: ^0.5.6
+  http: ^0.12.2
+  flutter_uploader: ^1.2.0
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/imgs/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/1.ttf
+        - asset: assets/fonts/2.ttf
+        - asset: assets/fonts/3.ttf
+        - asset: assets/fonts/4.ttf
+        - asset: assets/fonts/5.ttf
+        - asset: assets/fonts/6.ttf
